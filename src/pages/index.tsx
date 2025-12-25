@@ -201,12 +201,12 @@ export default function Home() {
                 data-scroll-speed=".06"
                 data-scroll-direction="horizontal"
               >
+                <span className="clash-grotesk text-gradient text-6xl 2xl:text-8xl">
+                  Matthew Yu
+                </span>
                 <span className="text-6xl tracking-tighter text-foreground 2xl:text-8xl">
                   Hello, I&apos;m
                   <br />
-                </span>
-                <span className="clash-grotesk text-gradient text-6xl 2xl:text-8xl">
-                  WendoJ.
                 </span>
               </h1>
               <p
